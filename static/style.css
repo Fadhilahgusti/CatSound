@@ -1,0 +1,35 @@
+.jumbotron {
+    background-image: url(kucing.png);
+    background-size: cover;
+    height: 1000px;
+    margin-top: -60PX;
+}
+
+.jumbotron h1 {
+    color: white;
+    margin-top: 20px;
+    font-size: 80px;
+}
+
+.jumbotron h3 {
+    color: white;
+    font-size: 33px;
+}
+
+.jumbotron p {
+    color: white;
+    margin-top: 200px;
+}
+
+.jumbotron label {
+    margin-top: 10px;
+}
+
+.jumbotron input {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.jumbotron img {
+    margin-bottom: 100px;
+}
